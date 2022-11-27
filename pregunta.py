@@ -7,9 +7,6 @@ correctamente. Tenga en cuenta datos faltantes y duplicados.
 
 """
 import pandas as pd
-
-
-mport pandas as pd
 import re
 
 
